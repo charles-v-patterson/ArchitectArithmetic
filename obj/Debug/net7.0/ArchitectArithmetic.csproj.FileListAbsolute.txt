@@ -1,0 +1,15 @@
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ArchitectArithmetic\bin\Debug\net7.0\ArchitectArithmetic.exe
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ArchitectArithmetic\bin\Debug\net7.0\ArchitectArithmetic.deps.json
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ArchitectArithmetic\bin\Debug\net7.0\ArchitectArithmetic.runtimeconfig.json
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ArchitectArithmetic\bin\Debug\net7.0\ArchitectArithmetic.dll
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ArchitectArithmetic\bin\Debug\net7.0\ArchitectArithmetic.pdb
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ArchitectArithmetic\obj\Debug\net7.0\ArchitectArithmetic.csproj.AssemblyReference.cache
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ArchitectArithmetic\obj\Debug\net7.0\ArchitectArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ArchitectArithmetic\obj\Debug\net7.0\ArchitectArithmetic.AssemblyInfoInputs.cache
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ArchitectArithmetic\obj\Debug\net7.0\ArchitectArithmetic.AssemblyInfo.cs
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ArchitectArithmetic\obj\Debug\net7.0\ArchitectArithmetic.csproj.CoreCompileInputs.cache
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ArchitectArithmetic\obj\Debug\net7.0\ArchitectArithmetic.dll
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ArchitectArithmetic\obj\Debug\net7.0\refint\ArchitectArithmetic.dll
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ArchitectArithmetic\obj\Debug\net7.0\ArchitectArithmetic.pdb
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ArchitectArithmetic\obj\Debug\net7.0\ArchitectArithmetic.genruntimeconfig.cache
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ArchitectArithmetic\obj\Debug\net7.0\ref\ArchitectArithmetic.dll
